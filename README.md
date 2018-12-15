@@ -1,5 +1,5 @@
 # tumbdlr
-A short script that downloads liked media from your tumblr. Only pictures and videos are downloaded. Posts with multiple pictures will
+A short script that downloads liked posts from your tumblr. Only pictures and videos are downloaded. Posts with multiple pictures will
 result in a folder.
 
 Create a tumblr application. Refer this [guide](https://wpweb.co.in/documents/social-network-integration/tumblr/).
